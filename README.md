@@ -4,6 +4,8 @@
 </p>
 
 
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <h1 align="center">Hi 👋, I'm Jashan</h1>
@@ -23,6 +25,7 @@ I enjoy experimenting with new tools, working on random coding projects, and lea
   <img src="https://komarev.com/ghpvc/?username=jashan507&label=Profile%20Views&color=0e75b6&style=flat" alt="jashan507" />
 </p>
 <br>
+
 
 
 
@@ -60,5 +63,5 @@ I enjoy experimenting with new tools, working on random coding projects, and lea
 <i>“The only limit to our realization of tomorrow will be our doubts of today.”</i><br>
 — Franklin D. Roosevelt
 </p>
-
----
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
